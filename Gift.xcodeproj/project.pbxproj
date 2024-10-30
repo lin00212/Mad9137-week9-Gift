@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E7276EE22CD1A791009BDF1F /* Gift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7276EE22CD1A791009BDF1F /* Gift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Gift.app; path = "/Users/easonlin/Documents/code/Sem 3/MAD9137/week9/Gift/build/Debug-iphoneos/Gift.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				E7276EE42CD1A791009BDF1F /* Gift */,
-				E7276EE32CD1A791009BDF1F /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		E7276EE32CD1A791009BDF1F /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E7276EE22CD1A791009BDF1F /* Gift.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = E7276ED92CD1A791009BDF1F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E7276EE32CD1A791009BDF1F /* Products */;
+			productRefGroup = E7276ED92CD1A791009BDF1F;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
